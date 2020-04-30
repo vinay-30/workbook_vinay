@@ -1,0 +1,10 @@
+a=int(input('Enter first number'))
+b=int(input('Enter second number'))
+import math
+print('addition of two numbers is  ',a+b)
+print('Subtraction of two numbers is  ',a-b)
+print('Multiplication of two numbers is  ',a*b)
+print('divison of two numbers is  ',a/b)
+print('Remainder of two numbers is  ',a%b)
+print('Logarithm is  ',math.log(a,10) )
+print('power  of two numbers is  ',a**b)
